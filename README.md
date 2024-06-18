@@ -16,11 +16,11 @@ Cada subdiretório dentro deste repositório representa um projeto independente 
 
 ## Projetos Disponíveis
 
-| Projeto              | Status   | Descrição                                                                                                                                             |
-| -------------------- | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| E-commerce System    | 🔴 To-Do | Um sistema de comércio eletrônico que utiliza diversos design patterns para gerenciar produtos, pedidos e notificações.                               |
-| Chat Application     | 🔴 To-Do | Uma aplicação de chat que implementa padrões para gerenciar comunicação em tempo real entre múltiplos usuários.                                       |
-| Inventory Management | 🔴 To-Do | Um sistema de gerenciamento de inventário que utiliza patterns para operações de inventário, processos de aprovação e integração com outros sistemas. |
+| Status | Projeto              | Descrição                                                                                                                                             |
+| ------ | -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🔴     | E-commerce System    | Um sistema de comércio eletrônico que utiliza diversos design patterns para gerenciar produtos, pedidos e notificações.                               |
+| 🔴     | Chat Application     | Uma aplicação de chat que implementa padrões para gerenciar comunicação em tempo real entre múltiplos usuários.                                       |
+| 🔴     | Inventory Management | Um sistema de gerenciamento de inventário que utiliza patterns para operações de inventário, processos de aprovação e integração com outros sistemas. |
 
 ## Legenda de Status
 
