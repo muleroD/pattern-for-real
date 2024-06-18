@@ -121,7 +121,7 @@ Cada sub-repositório (projeto) deve ser bem documentado e estruturado da seguin
 1. **Clonar o Repositório**:
 
    ```bash
-   git clone https://github.com/seu-usuario/Pattern-for-Real-Java-Edition.git
+   git clone https://github.com/muleroD/Pattern-for-Real-Java-Edition.git
    cd Pattern-for-Real-Java-Edition
    ```
 
